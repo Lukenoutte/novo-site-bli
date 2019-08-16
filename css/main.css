@@ -125,9 +125,10 @@
 		.banner{
 			background-image: url(../img/banner.png);
 			background-repeat: no-repeat;
-			background-position: center;
-			height: 492px;
+			
+			height: 490px;
 			position: relative;
+			background-position: left 1px;
 				}
 
 		.banner-bg{
@@ -379,6 +380,9 @@
 							}
 							.social-footer ul{
 
+							}
+							.banner h1{
+								font-size: 25px;
 							}
 
 							}
