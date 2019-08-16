@@ -384,5 +384,11 @@
 							.banner h1{
 								font-size: 25px;
 							}
-
+							.endereco{
+			
+								font-size: 17px;
+							}
+							.numeros{
+								font-size: 14px;
+							}
 							}
