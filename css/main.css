@@ -1,0 +1,384 @@
+		*{
+			margin: 0;
+			padding: 0;
+			border: 0;
+		}
+		ul, ol, li{
+			list-style: none;
+			margin-bottom: 0px!important;
+		}
+
+		header{
+			box-shadow: 0px 0px 10px rgba(30, 30, 30, 0.10);
+			height: 139px;
+			z-index: 1;
+			position: relative;
+		}
+		.container-fluid {
+			padding-right: 0px!important;
+			padding-left: 0px!important;
+		}
+
+
+
+		.formulario{
+			height: 475px;
+			
+		}
+
+
+
+		footer{
+			height: 554px;
+			
+		}
+
+		.contato{
+		
+			height: 139px;
+		}
+
+		#ul-contact-2{
+			margin-left: 10px;
+		}
+
+
+		.contato ul{
+			
+			width: 150px;
+			float: left;
+			color: #ed6e4a;
+			font-family: 'Montserrat', sans-serif;
+			font-size: 18px;
+			display: inline-block;
+			position: relative;
+			top: 50%;                       
+			transform: translate(0, -50%)
+			
+		}
+
+		.logo{
+		background-color: white;
+		height: 139px;
+		}
+
+		.redes-sociais{
+			background-color: white;
+			height: 139px;
+			margin: 0 auto;
+    	width: 50%;
+		}
+
+		.logo a{
+			background-image: url(../img/logo-bli.png);
+			height: 80px;
+			width: 160px;
+			background-repeat: no-repeat;
+			margin-top: 38px;
+			display:block;
+			position: relative;
+			margin: 0;
+			top:50%;
+			left: 50%;
+			margin-right: -50%;
+			transform: translate(-50%, -50%)
+		}
+
+
+		.redes-sociais ul{
+			margin-top: 53px;
+			
+		}
+
+		.redes-sociais ul li{
+			
+			display: inline-block;
+		}
+
+		.redes-sociais ul li a{
+			height: 40px;
+			width: 40px;
+			display:block;
+			background-repeat: no-repeat;
+		}
+		.redes-sociais ul #li-insta a{
+			background-image: url(../img/insta-logo.jpg);
+
+		}
+
+		.redes-sociais ul #li-fb a{
+			background-image: url(../img/fb-logo.jpg);
+
+		}
+
+		.redes-sociais ul #li-in a{
+			background-image: url(../img/in-logo.png);
+
+		}
+
+		.redes-sociais ul #li-anunciar a{
+			background-image: url(../img/anunciar.png);
+			height: 40px;
+			width: 200px;
+		}
+
+		.banner{
+			background-image: url(../img/banner.png);
+			background-repeat: no-repeat;
+			background-position: center;
+			height: 492px;
+			position: relative;
+				}
+
+		.banner-bg{
+			background-color: #fcfcfc;
+		}
+
+		.banner h1{
+			
+				font-family: 'Montserrat', sans-serif;
+				color:#2f444e;
+				text-transform: uppercase;
+				font-weight: normal;
+				padding-top:  60px;
+				font-size: 30px;
+				
+			
+		}
+
+		.chamada{
+
+			background-image: linear-gradient(#ff8408, #ff5748);
+			height: 244px;
+		}
+		.chamada h1{
+			font-family: 'Montserrat', sans-serif;
+			color:#fff;
+			text-transform: uppercase;
+			font-weight: normal;
+			text-align: center;
+			font-size: 30px;
+			padding-top: 60px;
+		}
+
+		.chamada p{
+			font-family: 'Montserrat', sans-serif;
+			color:#fff;
+			text-align: center;
+			font-size: 20px;
+		}
+
+		.form ul li button{
+			color: white;
+			background-image: linear-gradient(#ff8408, #ff5748);
+			height: 40px;
+			width: 275px;
+			border: none;
+			border-radius: 5px;
+			font-family: 'Montserrat', sans-serif;
+			font-weight: bold;
+			cursor: pointer;
+			display: inline;
+			margin-left: 20px;
+			position: absolute;
+
+		}
+		.form ul{
+			padding-top: 60px;
+		}
+		.not-first{
+			padding-top: 10px;
+		}
+		.form-style{
+			width: 559px;
+			height: 40px;
+			border-color: #efefef;
+			padding-left: 14px;
+			color:#9b9b9b;
+			font-family: 'Montserrat', sans-serif;
+			font-size: 16px;
+			border-radius: 5px;
+			border-width: 1px;
+			border-style: solid;
+			
+		}
+		.form-style-2{
+			width: 275px;
+			float: left;
+			margin-right: 6px;
+			
+		}
+		.option-form{
+			height: 38px;
+			color:#666666;
+		}
+
+		.inf-form p{
+			padding-top: 60px;
+		}
+
+		.observacoes{
+			height: 237px;
+			background-color: #f8f6f6;
+			
+			
+		}
+		.li-number{
+			font-family: 'Montserrat', sans-serif;
+			font-weight: bold;
+			font-size: 13px;
+		}
+		.observacoes p{
+			padding-right: 5px;
+			color:#333333;
+			font-family: 'Montserrat', sans-serif;
+			font-size: 18px;
+			padding-top: 68px;
+		}
+
+		.numeros{
+			height: 140px;
+			color:#ea5329;
+			padding-top: 60px;
+			font-family: 'Montserrat', sans-serif;
+			text-transform: uppercase;
+			text-align: center;
+			font-size: 21px;
+		}
+
+		.endereco{
+			
+				font-family: 'Montserrat', sans-serif;
+				text-align: center;
+				margin-top: 65px;
+				color:#4c4c4c;
+				font-size: 19px;
+			
+		}
+
+		#logo-footer{
+			background-image: url(../img/logo-bli.png);
+			height: 80px;
+			width: 160px;
+			background-repeat: no-repeat;
+			margin-top: 62px;
+			margin-left: 60%;
+			display: block;
+		
+		}
+		.aluguel-box{
+			width: 260px;
+			display: inline-block;
+			
+		}
+		.calculo-botao{
+			width: 260px;
+			height: 40px;
+			display: inline-block;
+						
+		}
+		.copyright{
+			
+			color: #b9b9b9;
+			font-family: 'Montserrat', sans-serif;
+			font-size: 12px;
+			text-align: center;
+			margin:0;
+			padding-left: 450px;
+			margin-top: 88px;
+			
+		}
+		.social-footer ul{
+			width: 200px;
+		}
+		.social-footer{
+			margin-top: 30px;
+			display: inline-block;
+		} 
+
+
+		@media screen and (max-width: 1160px){
+			.form-style{
+				width: 459px;
+			}
+			.observacoes{
+				height: 337px;
+			}
+			.form ul li button{
+				margin-left: 0px;
+			}
+			}
+
+		@media screen and (max-width: 993px){
+			.observacoes{
+				height: 470px;
+			}
+		
+			.formulario{
+				height: 775px;
+			}
+			}
+	
+
+			@media screen and (max-width: 816px){
+				header{
+					height: 470px;
+				}
+				.observacoes{
+					height: 460px;
+				}
+				#primeiro-contato{
+				margin-left: 25%;
+				}
+				#logo-footer{
+					margin-left: 30%;
+				}
+				.social-footer ul{
+					margin-left: 30%;
+				}
+				
+				}
+
+			@media screen and (max-width: 970px){
+				.form-style{
+					width: 359px;
+				}
+			}
+					
+
+					@media screen and (max-width: 660px){
+						header{
+							height:170px;
+						}
+					
+						}
+
+						@media screen and (max-width: 598px){
+							footer{
+								height: 754px;
+							}
+							.numeros{
+								height: 240px;
+							}
+							}
+						@media screen and (max-width: 560px){
+							
+							.observacoes{
+								height: 660px;
+							}
+							.chamada{
+								height: 344px;
+							}
+							}
+							@media screen and (max-width: 530px){
+							.formulario{
+								height: 900px;
+							}
+							.form-style{
+								width: 280px;
+							}
+							.social-footer ul{
+
+							}
+
+							}
