@@ -383,9 +383,7 @@
 							.form-style{
 								width: 280px;
 							}
-							.social-footer ul{
-
-							}
+						
 							.banner h1{
 								font-size: 25px;
 							}
@@ -395,5 +393,15 @@
 							}
 							.numeros{
 								font-size: 14px;
+							}
+							.social-footer ul{
+								width: 240px;
+								margin-left: 10%;
+							}
+							#li-insta{
+								margin-left: 30%;
+							}
+							#li-anunciar{
+								margin-left: 18%;
 							}
 							}
