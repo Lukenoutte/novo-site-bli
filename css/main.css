@@ -143,7 +143,8 @@
 				font-weight: normal;
 				padding-top:  60px;
 				font-size: 30px;
-				
+				width: 300px;
+
 			
 		}
 
@@ -308,6 +309,7 @@
 			.form ul li button{
 				margin-left: 0px;
 			}
+		
 			}
 
 		@media screen and (max-width: 993px){
@@ -317,6 +319,9 @@
 		
 			.formulario{
 				height: 775px;
+			}
+			.logo-footer{
+				margin-right: 10px;
 			}
 			}
 	
@@ -347,7 +352,7 @@
 			}
 					
 
-					@media screen and (max-width: 660px){
+					@media screen and (max-width: 560px){
 						header{
 							height:170px;
 						}
