@@ -86,7 +86,7 @@
 
 
 		.redes-sociais ul{
-			margin-top: 53px;
+			margin-top: 20px;
 			
 		}
 
@@ -103,23 +103,29 @@
 		}
 		.redes-sociais ul #li-insta a{
 			background-image: url(../img/insta-logo.jpg);
+			font-size: 1px;
+			color: transparent;
 
 		}
 
 		.redes-sociais ul #li-fb a{
 			background-image: url(../img/fb-logo.jpg);
-
+			font-size: 1px;
+			color: transparent;
 		}
 
 		.redes-sociais ul #li-in a{
 			background-image: url(../img/in-logo.png);
-
+			font-size: 1px;
+			color: transparent;
 		}
 
 		.redes-sociais ul #li-anunciar a{
 			background-image: url(../img/anunciar.png);
 			height: 40px;
 			width: 200px;
+			font-size: 1px;
+			color: transparent;
 		}
 
 		.banner{
@@ -294,7 +300,7 @@
 			width: 200px;
 		}
 		.social-footer{
-			margin-top: 30px;
+			margin-top: 60px;
 			display: inline-block;
 		} 
 
@@ -349,6 +355,7 @@
 				.form-style{
 					width: 359px;
 				}
+				
 			}
 					
 
